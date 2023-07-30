@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Abdul-Ghaffar-Master/static/css/main.cd7501d7.css",
+    "main.js": "/Portfolio-Abdul-Ghaffar-Master/static/js/main.3f211e58.js",
+    "static/media/ecommerce.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/boy.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/boy.716f4928296aadf2dffd.png",
+    "static/media/sidebar.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/glassesimoji.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/resume.pdf": "/Portfolio-Abdul-Ghaffar-Master/static/media/resume.3d1d9714effa573584af.pdf",
+    "static/media/hoc.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/thumbup.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Portfolio-Abdul-Ghaffar-Master/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Portfolio-Abdul-Ghaffar-Master/index.html",
+    "main.cd7501d7.css.map": "/Portfolio-Abdul-Ghaffar-Master/static/css/main.cd7501d7.css.map",
+    "main.3f211e58.js.map": "/Portfolio-Abdul-Ghaffar-Master/static/js/main.3f211e58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7501d7.css",
+    "static/js/main.3f211e58.js"
+  ]
+}
